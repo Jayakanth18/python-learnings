@@ -48,7 +48,7 @@ floatValue= float(length)
 print(type(str(floatValue)))
 
 #17
-if the remainder is not zero its is odd number.
+# if the remainder is not zero its is odd number.
 
 #19
 print(type(10) == type("10"))
