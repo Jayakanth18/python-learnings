@@ -26,6 +26,8 @@ except ValueError:
     print('Value error occur')
 except ZeroDivisionError:
     print('zero division error occur')
+except Exception as e:
+    print(e)
 else:
     print('I usually run with the try block')
 finally:
